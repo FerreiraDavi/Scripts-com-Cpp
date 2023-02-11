@@ -6,3 +6,6 @@ Ex.: "Nesse texto nem toda palavra se inverte" retorna "esseN otxet nem toda arv
 
 O programa "Range_de_indices" faz muita coisa, estou com preguiça de explicar.
 Ex.: "-10, -9, -8, -6, -3, -2, -1, 0, 1, 3, 4, 5, 7, 8, 9, 10, 11, 14, 15, 17, 18, 19, 20" retorna "-10--8,-6,-3-1,3-5,7-11,14,15,17-20"
+
+O programa "Zeros_fatorial" conta quanto zeros tem no final de um fatorial (ex.: o número 6! é 120 e possui 1 zero no final).
+Ex.: "1000" retorna "249"
